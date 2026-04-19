@@ -1,0 +1,4 @@
+twelvedata
+pandas
+requests
+python-dotenv
