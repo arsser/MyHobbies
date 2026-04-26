@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.ruff_cache
+回测分析/cache/
+.venv/
+.DS_Store
