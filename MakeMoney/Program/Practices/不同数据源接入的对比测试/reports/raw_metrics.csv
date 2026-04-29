@@ -1,0 +1,5 @@
+source,symbol,ok,elapsed_ms,row_count,null_rate,skipped,error
+baostock,600036,True,447.9409850027878,243,0.0,False,
+baostock,00700.HK,False,0.15020198770798743,0,1.0,True,not_supported: baostock does not support HK symbols in this benchmark
+longport,600036,True,1781.9861840107478,243,0.0,False,
+longport,00700.HK,True,1746.579478989588,247,0.0,False,
